@@ -1,10 +1,8 @@
 # Structured Types
 
-TODO: Make sure that you delete all of the TODO markers and the prompts that go
-along with them. When you are finished with this reflection it should contain
-polished and correct technical writing that is suitable for publication on your
-web site. This means that you should not only delete the word TODO but either
-rewrite or also delete the prompts that are inside of this document.
+TODO: Please note that your writing must be original and based on your
+own understanding of the concepts. Assignment with non-original writing
+will not be graded.
 
 ## Add Your Name Here
 
@@ -42,7 +40,7 @@ TODO: Provide a detailed response to this question.
 
 TODO: Provide a detailed response to this question.
 
-### What are the affordances associated with higher-order functions like `apply_to_each`?
+### What are the affordances of a higher-order function like `apply_to_each`?
 
 TODO: Provide a detailed response to this question.
 

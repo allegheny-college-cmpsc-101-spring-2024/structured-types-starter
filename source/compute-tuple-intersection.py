@@ -3,9 +3,6 @@
 from typing import Any
 from typing import Tuple
 
-# TODO: Refer to the source code in the Jupyter Notebook and the course
-# slides for more details on how to implement these required features
-
 def compute_intersection(tuple_one: Tuple[Any, ...], tuple_two: Tuple[Any, ...]) -> Tuple[Any, ...]:
     """Return a tuple containing the elements in both input tuples."""
     # TODO: Add the source code lines from page 91 of the textbook
